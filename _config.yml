@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Zeina Khadem"
-  avatar : "/assets/images/zeina-bio"
+  avatar : "/assets/images/zeina-bio.png"
   bio    : "Interactive Media Arts student at NYUAD."
   links:
     - label: "Website"
