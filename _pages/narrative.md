@@ -1,8 +1,7 @@
-___
+---
 title: "Digital Narrative"
 permalink: /narrative/
-author_profile: false
-___
+---
 
 ## 1. **Gemini:**
 
