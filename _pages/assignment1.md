@@ -19,10 +19,10 @@ We split the corpus into two time ranges, 1930–1949 and 1950–1969. We picked
 
 Looking back at our hypothesis, we honestly aren't sure whether it was confirmed or not. Some words changed between the two periods and others barely moved, so the picture wasn't as clear as we expected. But we gained a lot of new insight along the way, and some of the most interesting findings were things we never expected to find.
 
-![Heatmap of war words by tag, 1930–1949](/assets/images/heatmap1930-1949.png)
+![Heatmap of war words by tag, 1930–1949](/daah/assets/images/heatmap1930-1949.png)
 *Figure 1: How often each of our war words appears per 1,000 words in each tag, for books published between 1930 and 1949.*
 
-![Heatmap of war words by tag, 1950–1969](/assets/images/heatmap1950-1969.png)
+![Heatmap of war words by tag, 1950–1969](/daah/assets/images/heatmap1950-1969.png)
 *Figure 2: The same war words and tags for books published between 1950 and 1969.*
 
 Something that surprised us was how often "gun" shows up across all the tags, not just war. Even though our main focus was the war tag, we thought it was worth looking at the others too. Mars actually had the highest rate of "gun" in both periods (0.30, then 0.33 per 1,000 words). We wouldn't expect that in books about Mars, where we'd assume the writers would use more inventive sci-fi terms. To us this shows how tied sci-fi is to the technology of its time. That said, we didn't check "gun" in KWIC, so some of these could be ray guns and not regular guns.
