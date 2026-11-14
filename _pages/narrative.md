@@ -64,3 +64,8 @@ Overall, I think my digital literacy is strongest when I am creating and experim
 
 ### Reflection
 Gemini and Claude both seemed to think that I work in Environmental Studies, which is not correct, and they based a good portion of their responses on that assumption. If I had someone who did not know me read them, they would probably seem pretty convincing because the responses are written in such an authoritative and confident tone. This shows how easily AI can make assumptions or hallucinate details, while presenting those details in a way that makes them seem trustworthy. Just because a response sounds confident does not mean that the information is accurate. I think ChatGPT performed the best, and I think it mostly boils down to the fact that I use it the most. I found its response the most accurate overall, with no changes needed to adapt it to my perspective.
+
+
+### Combined Response
+
+As a twenty-year-old Interactive Media major, I have always felt like I was relatively comfortable with technology. I use my laptop every day for school, communicate through social media and messaging apps, and work with different software for my classes and projects. However, I have started to realize that being digitally literate is not just about knowing how to use technology. It is also about understanding how to use it intentionally, knowing where information comes from, and being able to question the tools I am using. It isn't just about knowing how to use the tool as much as knowing how the tool works. 
