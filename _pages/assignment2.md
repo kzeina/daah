@@ -17,7 +17,8 @@ The statements from the Gazette give us the month, the direction of trade, the c
 ## **Prompt engineering**
 
 We used Claude to turn the Gazette data into a CSV file. The prompt was:  
-i need to make csv file on the data, but i’d need only the information for tobacco, wine, spirits, beer, (maybe other luxury goods that you may see fit), professor wants us to aim for around 300 data points. id want the rows to be the location (go location by location, like all of europe then all of etc), id like the columns to be by the goods, and also the lat long of the location, and the date, add a column for notes, and also if uncertain about anything, mark it with \[?\]  
+>i need to make csv file on the data, but i’d need only the information for tobacco, wine, spirits, beer, (maybe other luxury goods that you may see fit), professor wants us to aim for around 300 data points. id want the rows to be the location (go location by location, like all of europe then all of etc), id like the columns to be by the goods, and also the lat long of the location, and the date, add a column for notes, and also if uncertain about anything, mark it with \[?\]  
+
 We believe that this prompt worked well because it gave Claude a clear scope as well as an output format. Rather than simply asking the model to read the data, our prompt defined the CSV structure, defined both the list of commodities to consider and requested geographic coordinates, and established a rule for uncertainty. The instruction to use \[?\] in place of uncertainties was crucial because it prevented the model from fabricating data. Claude also pointed out some things that we failed to notice, such as the Gazette’s inconsistencies in naming regions (ex: the switch from “Bombay / Calcutta” in 1915 to “India / Other Countries” in 1916 and then “India and Burmah / Other Ports of Asia” in 1919). 
 
 ## **Automation and cleaning**
@@ -38,7 +39,7 @@ This assignment showed that Claude can be very effective for both data extractio
 
 <div style="width:100%; height:70vh;">
   <iframe
-    src="{{'daah/assets/maps/Zanzibar.html'}}"
+    src="/daah/assets/maps/Zanzibar.html"
     style="width:100%; height:100%; border:0;"
     loading="lazy">
   </iframe>
