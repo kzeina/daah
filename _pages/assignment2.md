@@ -44,3 +44,5 @@ This assignment showed that Claude can be very effective for both data extractio
     loading="lazy">
   </iframe>
 </div>
+
+<p><a href="/daah/assets/maps/Zanzibar.html" target="_blank">Open the map in full screen</a></p
